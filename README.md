@@ -48,8 +48,9 @@ To deploy the surveillance system:
 
 1. Install the necessary dependencies as outlined in the installation guide.
 2. To use the requirements.txt file, you can simply use the following command-
-   pip install -r /path_to/requirements.txt
-
+```
+> pip install -r /path_to/requirements.txt
+```
 4. Configure the system to integrate with CCTV cameras.
 5. Start the system to begin real-time monitoring and detection of criminal activities.
 6. Monitor the web interface for alerts and take necessary actions based on the alerts received.
