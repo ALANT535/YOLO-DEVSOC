@@ -68,6 +68,9 @@ To deploy the surveillance system:
 - Bharath Mudduluru
 
 
+Developed during DEVSOC, 42 hour hackathon.
+Dated 17/03/2024
+
 ---
 
 **Disclaimer:** The proposed system should be deployed and used responsibly, adhering to all applicable laws and regulations regarding surveillance and privacy.
