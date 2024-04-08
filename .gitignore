@@ -1,3 +1,4 @@
 /resources/runs
 /YOLO Model/runs
-/YOLO Model/weights
+# /YOLO Model/weights
+/YOLO Model/__pycache__
