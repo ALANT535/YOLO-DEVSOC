@@ -44,7 +44,7 @@ weights_path = os.path.join(current_directory,r"YOLO MODEL\weights",weight)
 # r"C:\Users\LENOVO\OneDrive\Desktop\DEVSOC\YOLOV9\yolov9\weights\yolov9-c.pt"
 
 #change the image you want to process here
-source_path = os.path.join(current_directory,"Resources","CRASH.jpeg")
+source_path = os.path.join(current_directory,"Resources","images","CRASH.jpeg")
 # source_path = r"C:\Users\LENOVO\OneDrive\Desktop\DEVSOC\YOLOV9\yolov9\videos\road_vid.mp4"
 confidence_threshold = 0.1
 device = "cpu"
